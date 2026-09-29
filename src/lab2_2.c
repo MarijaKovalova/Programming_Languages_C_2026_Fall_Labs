@@ -19,7 +19,7 @@ long long factorial(int n) {
         result *= i;
 
     }
-    return 1; // placeholder
+    return result; // placeholder
 }
 
 int main(void) {
