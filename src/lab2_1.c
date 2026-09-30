@@ -19,7 +19,7 @@ int sum_to_n(int n) {
        sum +=i;
     }
 
-    return 0; // placeholder
+    return sum; // placeholder
 }
 
 int main(void) {
